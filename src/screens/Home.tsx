@@ -65,7 +65,7 @@ export function Home() {
       });
 
     return subscriber;
-  }, [statusSelected]);
+  }, [statusSelected]);//Toda vez que o estado mudar o useEffect carrega novamente.
 
   return (
     <VStack flex={1} pb={6} bg="gray.700">
