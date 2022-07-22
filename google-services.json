@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "661428508479",
+    "project_id": "helpdesk-app-333a9",
+    "storage_bucket": "helpdesk-app-333a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661428508479:android:a49d56bbfe6f851125e58a",
+        "android_client_info": {
+          "package_name": "com.rockethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661428508479-e4rf90h3ho1miqvn5jscapqoh5jqfro5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcQLOaZIsT7JudxGNNHhhqtOW9GjYJNQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661428508479-e4rf90h3ho1miqvn5jscapqoh5jqfro5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661428508479-so0p9besf7r3pqq6dkqkce6ehak51v5e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rockethelp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
