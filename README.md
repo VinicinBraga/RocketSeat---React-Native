@@ -1,7 +1,7 @@
 # Curso - RocketSeat
 
 **Aplicação em React-Native**<br />
-Aplicação realizada em React-Native utilizando o typescript.<br />
+Aplicação realizada em React-Native utilizando o typescript, e o back-end criado utilizando Firebase.<br />
 O app se trata de um helpdask onde é possivel criar usiarios e gerar e concluir solicitações desses usuários.<br />
 Foi construida em um curso ministrado pela RocketSeat.<br />
 
